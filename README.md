@@ -71,8 +71,6 @@ java -Dapplication.monnom=ClientX -jar shellClient-0.0.1.jar
 - Lorsqu’un client se déconnecte ou quitte, il est automatiquement supprimé de la base.
 
 - Il est possible de lister tous les clients actuellement connectés via une commande.
-  
-- 
 
 🔸 Envoi et réception de messages
 
